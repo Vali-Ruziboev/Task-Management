@@ -24,15 +24,18 @@ https://user-images.githubusercontent.com/89704608/210167890-a4ffb48b-5a23-42c4-
 1. Create `database.sqlite` file in backend `/database` directory
 
    ![image](https://user-images.githubusercontent.com/89704608/210167982-d1f55d44-702e-4a0d-83a6-024d531da05e.png)
+   
+2. Create .env file in root directory of `backend` folder
+   - Please follow the `.env.example` file in that directory
 
-2. Run Migration
+3. Run Migration
 
 ```
 cd .\backend\
 php artisan migrate
 ```
 
-3. Start backend
+4. Start backend
 
 ```
 php artisan serve
