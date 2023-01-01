@@ -50,7 +50,6 @@ export const taskApiSlice = createApi({
         url: `tasks/${taskId}`,
         method: "DELETE",
       }),
-      invalidatesTags: ["tasks"],
     }),
   }),
 });
