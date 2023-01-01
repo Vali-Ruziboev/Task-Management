@@ -1,5 +1,16 @@
 # Task Management
+### Demo
+   
 
+https://user-images.githubusercontent.com/89704608/210167890-a4ffb48b-5a23-42c4-9971-60df90336530.mp4
+
+
+
+### User Can:
+ - Create/Update/Delete(soft delete) Tasks
+ - Drag and Drop a task to a specific status to mark it as todo/in progress/completed
+ - Tasks marked completed are deleted(soft delete) automatically in 30 days after marked as completed
+ 
 ### Tech Stack
 
 - **Reactjs** - _https://reactjs.org/_
