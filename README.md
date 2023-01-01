@@ -22,6 +22,9 @@ https://user-images.githubusercontent.com/89704608/210167890-a4ffb48b-5a23-42c4-
 ### Backend
 
 1. Create `database.sqlite` file in backend `/database` directory
+
+   ![image](https://user-images.githubusercontent.com/89704608/210167982-d1f55d44-702e-4a0d-83a6-024d531da05e.png)
+
 2. Run Migration
 
 ```
